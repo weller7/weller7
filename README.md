@@ -9,6 +9,14 @@
 
 - ⚡ Fun fact **I 💙 music**
 
+<h2 align="center">Projects</h2>
+
+
+| Shelby Coffee  | Synthwave |
+| ------------- | ------------- |
+| https://github.com/weller7/shelby/blob/main/shelby.gif  | Content Cell  |
+| Website for a local coffee shop made with HTML/CSS and Tailwind. | Website for Synth Inc about the music genre Synthwave.  |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jimdlg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimdlg1" height="30" width="40" /></a>
