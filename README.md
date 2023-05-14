@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jimena</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **OOP and back end**
+<div align="center">
+🌱 I’m currently learning **OOP and back end**
 
-- 👯 I’m looking to collaborate **to open source**
+👯 I’m looking to collaborate **to open source**
 
-- 📫 How to reach me **jimdlg547@gmail.com**
+📫 How to reach me **jimdlg547@gmail.com**
 
-- ⚡ Fun fact **I 💙 music**
+⚡ Fun fact **I 💙 music**
+  
+ </div> <br>
 
 <h2 align="center">Projects</h2>
 
-
 | Shelby Coffee  | Synthwave |
 | ------------- | ------------- |
-| ![shelby2](https://github.com/weller7/weller7/assets/40869710/dc85df7c-34e9-40a6-a355-ab6b80f146de) | Content Cell  |
+| ![shelby2](https://github.com/weller7/weller7/assets/40869710/dc85df7c-34e9-40a6-a355-ab6b80f146de) |  ![synth](https://github.com/weller7/weller7/assets/40869710/85bf4989-f8ee-4eb6-903b-541825baf1ba)|
 | Website for a local coffee shop made with HTML/CSS and Tailwind. | Website for Synth Inc about the music genre Synthwave.  |
 
 <h3 align="left">Connect with me:</h3>
