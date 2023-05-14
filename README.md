@@ -14,7 +14,7 @@
 
 | Shelby Coffee  | Synthwave |
 | ------------- | ------------- |
-| https://github.com/weller7/shelby/blob/main/shelby.gif  | Content Cell  |
+| ![shelby2](https://github.com/weller7/weller7/assets/40869710/dc85df7c-34e9-40a6-a355-ab6b80f146de) | Content Cell  |
 | Website for a local coffee shop made with HTML/CSS and Tailwind. | Website for Synth Inc about the music genre Synthwave.  |
 
 <h3 align="left">Connect with me:</h3>
