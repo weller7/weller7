@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer</h3>
 
 <div align="center">
-🌱 I’m currently learning back end*
+🌱 I’m currently learning back end
 
 👯 I’m looking to collaborate **to open source**
 
