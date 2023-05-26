@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimena</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<div align="center">
+<section align="center">
 🌱 I’m currently learning back end 
   
 👯 I’m looking to collaborate **to open source**
@@ -10,7 +10,7 @@
 
 ⚡ Fun fact **I 💙 music**
   
- </div> <br>
+ </section> <br>
 
 <h2 align="center">Projects</h2>
 
