@@ -19,6 +19,11 @@
 | ![shelby2](https://github.com/weller7/weller7/assets/40869710/dc85df7c-34e9-40a6-a355-ab6b80f146de) |  ![synth](https://github.com/weller7/weller7/assets/40869710/85bf4989-f8ee-4eb6-903b-541825baf1ba)|
 | Website for a local coffee shop made with HTML/CSS and Tailwind. | Website for Synth Inc about the music genre Synthwave.  |
 
+| War card game  | 
+| ------------- | 
+| ![card-game-war2](https://github.com/weller7/weller7/assets/40869710/1d3d64a4-fca7-4af4-8c8d-37e430cb7108)
+| Webapp to play a fun card game made with HTML/CSS and JS. |
+
 <h2 align="center">Connect with me </h2>
 
 <section align="center">
