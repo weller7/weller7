@@ -26,7 +26,7 @@
 
 | Legacy memes  |
 | ------------- | 
-| ![legacyMemes](https://github.com/weller7/weller7/assets/40869710/6fd02dcc-acb4-42e3-8ac0-0099ca9ebbc9) |
+| ![legacyMemes](https://github.com/weller7/weller7/assets/40869710/b757b0f7-d741-452c-a33d-6cac4dbbe325)|
 | Web app to create Hogwarts Legacy memes made with HTML/CSS, Vite and React.|
 
 <h2 align="center">Connect with me </h2>
