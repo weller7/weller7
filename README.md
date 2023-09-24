@@ -24,6 +24,11 @@
 | ![card-game-war2](https://github.com/weller7/weller7/assets/40869710/1d3d64a4-fca7-4af4-8c8d-37e430cb7108) | ![oasis2](https://github.com/weller7/weller7/assets/40869710/922d5813-59ed-4652-9fed-b4981c4fab35) 
 | Web app to play a fun card game made with HTML/CSS and JS.| API with client js that gives you useless facts about the band Oasis made with HTML/CSS and JS.|
 
+| Legacy memes  |
+| ------------- | 
+| ![legacyMemes](https://github.com/weller7/weller7/assets/40869710/6fd02dcc-acb4-42e3-8ac0-0099ca9ebbc9) |
+| Web app to create Hogwarts Legacy memes made with HTML/CSS, Vite and React.|
+
 <h2 align="center">Connect with me </h2>
 
 <section align="center">
