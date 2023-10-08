@@ -19,15 +19,17 @@
 | ![shelby2](https://github.com/weller7/weller7/assets/40869710/dc85df7c-34e9-40a6-a355-ab6b80f146de) |  ![synth](https://github.com/weller7/weller7/assets/40869710/85bf4989-f8ee-4eb6-903b-541825baf1ba)|
 | Website for a local coffee shop made with HTML/CSS and Tailwind. | Website for Synth Inc about the music genre Synthwave made with Tailwind.  |
 
-| War card game  | Useless Oasis facts  |
+| War card game  |  What to eat |
 | ------------- | ------------- | 
-| ![card-game-war2](https://github.com/weller7/weller7/assets/40869710/1d3d64a4-fca7-4af4-8c8d-37e430cb7108) | ![oasis2](https://github.com/weller7/weller7/assets/40869710/922d5813-59ed-4652-9fed-b4981c4fab35) 
-| Web app to play a fun card game made with HTML/CSS and JS.| API with client js that gives you useless facts about the band Oasis made with HTML/CSS and JS.|
+| ![card-game-war2](https://github.com/weller7/weller7/assets/40869710/1d3d64a4-fca7-4af4-8c8d-37e430cb7108) |<img width="975" alt="one" src="https://github.com/weller7/weller7/assets/40869710/70de0327-a169-4e15-825f-618bed100822"> 
+| Web app to play a fun card game made with HTML/CSS and JS.| Team project to choose a type of food randomly made using HTML, CSS, JavaScript, and Node.js.|
 
-| Legacy memes  |
-| ------------- | 
-| ![legacyMemes](https://github.com/weller7/weller7/assets/40869710/b757b0f7-d741-452c-a33d-6cac4dbbe325)
-| Web app to create Hogwarts Legacy memes made with HTML/CSS, Vite and React.|
+
+| Legacy memes  | Useless Oasis facts |
+| ------------- | ------------- | 
+| ![legacyMemes](https://github.com/weller7/weller7/assets/40869710/b757b0f7-d741-452c-a33d-6cac4dbbe325) |  ![oasis2](https://github.com/weller7/weller7/assets/40869710/922d5813-59ed-4652-9fed-b4981c4fab35) 
+| Web app to create Hogwarts Legacy memes made with HTML/CSS, Vite and React.|  API with client js that gives you useless facts about the band Oasis made with HTML/CSS and JS.|
+
 
 <h2 align="center">Connect with me </h2>
 
