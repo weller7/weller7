@@ -28,7 +28,7 @@
 | Legacy memes  | Useless Oasis facts |
 | ------------- | ------------- | 
 | ![legacyMemes](https://github.com/weller7/weller7/assets/40869710/b757b0f7-d741-452c-a33d-6cac4dbbe325) |  ![oasis2](https://github.com/weller7/weller7/assets/40869710/922d5813-59ed-4652-9fed-b4981c4fab35) 
-| Web app to create Hogwarts Legacy memes made with HTML/CSS, Vite and React.|  API with client js that gives you fun facts about the band Oasis made with HTML/CSS and JS.|
+| Web app to create Hogwarts Legacy memes made with HTML/CSS, Vite and React.|  API with client JS that gives you fun facts about the band Oasis made with HTML/CSS and JS.|
 
 
 <h2 align="center">Connect with me </h2>
