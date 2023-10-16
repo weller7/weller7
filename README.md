@@ -22,7 +22,7 @@
 | War card game  |  What to eat |
 | ------------- | ------------- | 
 | ![card-game-war2](https://github.com/weller7/weller7/assets/40869710/1d3d64a4-fca7-4af4-8c8d-37e430cb7108) |<img width="975" alt="one" src="https://github.com/weller7/weller7/assets/40869710/70de0327-a169-4e15-825f-618bed100822"> 
-| Web app to play a fun card game made with HTML/CSS and JS.| Team project to choose a type of food randomly made using HTML, CSS, JavaScript, and Node.js.|
+| Web app to play a fun card game made with HTML/CSS and JS.| Web App to choose a type of food randomly made using HTML, CSS, JavaScript, and Node.js.|
 
 
 | Legacy memes  | Useless Oasis facts |
