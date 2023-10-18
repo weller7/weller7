@@ -31,7 +31,7 @@
 | Web app to create Hogwarts Legacy memes made with HTML/CSS, Vite and React.|  API with client JS that gives you fun facts about the band Oasis made with HTML/CSS and JS.|
 
 
-<h2 align="center">Connect with me </h2>
+<h2 align="center">Connect with me</h2>
 
 <section align="center">
 <a href="https://github.com/https://github.com/weller7" target="_blank">
