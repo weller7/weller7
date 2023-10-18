@@ -32,8 +32,8 @@
 
 | Astronomy club | Story time |
 | ------------- | ------------- | 
-| ![ezgif com-optimize](https://github.com/weller7/weller7/assets/40869710/8950280b-ddab-4bb8-b075-b91ee99b88a1) |  ![oasis2](https://github.com/weller7/weller7/assets/40869710/922d5813-59ed-4652-9fed-b4981c4fab35) 
-| Web app with NASA's API integration that shows a different picture every day made with HTML/CSS and JS.| Web app to write stories, create, characters and lists to share them with other users, made with JS, Bootstrap, Express, Passport and MongoDB|
+| ![ezgif com-optimize](https://github.com/weller7/weller7/assets/40869710/8950280b-ddab-4bb8-b075-b91ee99b88a1) |  ![storyTime](https://github.com/weller7/weller7/assets/40869710/63b0977b-43ef-46e1-a494-1b3034a59e02)
+| Web app with NASA's API integration that shows a different picture every day made with HTML/CSS and JS.| Web app to write stories, create characters and lists to share them with other users. Made with JS, Bootstrap, Express, Passport and MongoDB|
 
 
 <h2 align="center">Connect with me</h2>
