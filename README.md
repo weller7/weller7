@@ -30,6 +30,11 @@
 | ![legacyMemes](https://github.com/weller7/weller7/assets/40869710/b757b0f7-d741-452c-a33d-6cac4dbbe325) |  ![oasis2](https://github.com/weller7/weller7/assets/40869710/922d5813-59ed-4652-9fed-b4981c4fab35) 
 | Web app to create Hogwarts Legacy memes made with HTML/CSS, Vite and React.|  API with client JS that gives you fun facts about the band Oasis made with HTML/CSS and JS.|
 
+| Astronomy club | Story time |
+| ------------- | ------------- | 
+| ![ezgif com-optimize](https://github.com/weller7/weller7/assets/40869710/8950280b-ddab-4bb8-b075-b91ee99b88a1) |  ![oasis2](https://github.com/weller7/weller7/assets/40869710/922d5813-59ed-4652-9fed-b4981c4fab35) 
+| Web app with NASA's API integration that shows a different picture every day made with HTML/CSS and JS.| Web app to write stories, create, characters and lists to share them with other users, made with JS, Bootstrap, Express, Passport and MongoDB|
+
 
 <h2 align="center">Connect with me</h2>
 
