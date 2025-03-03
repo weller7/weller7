@@ -2,9 +2,9 @@
 <h3 align="center">A passionate web developer</h3>
 
 <section align="center">
-🌱 I’m currently learning back end 
+🌱 I’m currently fullstack development 
   
-👯 I’m looking to collaborate **to open source**
+👯 I’m looking to master **new tools and languages**
 
 📫 How to reach me **jimdlg547@gmail.com**
 
