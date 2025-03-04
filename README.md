@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer</h3>
 
 <section align="center">
-🌱 I’m currently fullstack development 
+🌱 I’m currently mastering fullstack development 
   
 👯 I’m looking to master **new tools and languages**
 
