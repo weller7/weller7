@@ -19,10 +19,10 @@
 | ![shelby2](https://github.com/weller7/weller7/assets/40869710/dc85df7c-34e9-40a6-a355-ab6b80f146de) |  ![synth](https://github.com/weller7/weller7/assets/40869710/85bf4989-f8ee-4eb6-903b-541825baf1ba)|
 | Website for a local coffee shop made with HTML/CSS and Tailwind. | Website for Synth Inc about the music genre Synthwave made with Tailwind.  |
 
-| Holo Chat  |  What to eat |
+| Holo Chat  |  Under the same sky |
 | ------------- | ------------- | 
-|![holo](https://github.com/user-attachments/assets/95975cd8-8497-4a4e-bfaf-3bf3dcadefc3) | <img width="980" alt="one" src="https://github.com/weller7/weller7/assets/40869710/70de0327-a169-4e15-825f-618bed100822"> |
-| MERN App were users send and get messages in real time and can choose different themes.| Web App to choose a type of food randomly made using HTML, CSS, JavaScript, and Node.js.|
+|![holo](https://github.com/user-attachments/assets/95975cd8-8497-4a4e-bfaf-3bf3dcadefc3) | <img width="980" alt="one" src="https://github.com/user-attachments/assets/86d2baee-829b-4d9f-a5b5-7c7899866059"> |
+| MERN App were users send and get messages in real time and can choose different themes.| Website to promote a futuristic graphic novel by MBR group. Made with React and Tailwind. |
 
 
 | Legacy memes  | Useless Oasis facts |
