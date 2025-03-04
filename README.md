@@ -21,7 +21,7 @@
 
 | Holo Chat  |  Under the same sky |
 | ------------- | ------------- | 
-|![holo](https://github.com/user-attachments/assets/95975cd8-8497-4a4e-bfaf-3bf3dcadefc3) | <img width="980" alt="one" src="https://github.com/user-attachments/assets/86d2baee-829b-4d9f-a5b5-7c7899866059"> |
+|![holo](https://github.com/user-attachments/assets/95975cd8-8497-4a4e-bfaf-3bf3dcadefc3) | <img width="990" alt="one" src="https://github.com/user-attachments/assets/86d2baee-829b-4d9f-a5b5-7c7899866059"> |
 | MERN App were users send and get messages in real time and can choose different themes.| Website to promote a futuristic graphic novel by MBR group. Made with React and Tailwind. |
 
 
