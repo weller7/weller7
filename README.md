@@ -4,7 +4,7 @@
 <section align="center">
 🌱 I’m currently mastering fullstack development 
   
-👯 I’m looking to master **new tools and languages**
+👯 I’m looking to learn **new tools and languages**
 
 📫 How to reach me **jimdlg547@gmail.com**
 
